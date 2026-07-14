@@ -1,8 +1,8 @@
-# RFID Warehouse Logging System
+# RFID Warehouse Automation System
 
 ## Overview
 
-This project is a Python-based RFID logging system designed for warehouse operations to track item IN and OUT transactions using a UHF RFID reader.
+This project is a Python-based RFID Automation system designed for warehouse operations to track item IN and OUT transactions using a UHF RFID reader.
 
 The system enforces strict validation rules to ensure accurate and complete transaction cycles, preventing duplicate scans and invalid records.
 
